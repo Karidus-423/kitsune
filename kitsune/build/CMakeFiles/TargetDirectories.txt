@@ -1,0 +1,3 @@
+C:/Users/kapue/projects/C-Compiler/kitsune/build/CMakeFiles/kitsu.dir
+C:/Users/kapue/projects/C-Compiler/kitsune/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kapue/projects/C-Compiler/kitsune/build/CMakeFiles/ZERO_CHECK.dir
