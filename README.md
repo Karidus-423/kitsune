@@ -11,9 +11,9 @@ _idk sounded cool_
 
 Wanted to understand code execution at a low-level.
 I am still building this and I just know that hard concepts
-in this field are worth vital. It is guaranteed that I will
-become better programmer by taking the challenging route in
-computer science.
+in this field are vital. It is guaranteed that I will
+become better programmer by taking the challenging route in 
+the beggining.
 
 ### What is different about this compiler from the rest.
 
