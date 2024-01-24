@@ -23,7 +23,7 @@ languages. An example from this can be ~~Javascript~~ Typescript.
 
 ## Current Progress
 
-- [x] Lexer, Intigers and Code Generation
-- [ ] Unary, Binary Operators and local variables :hammer:
+- [ ] Lexer, Intigers and Code Generation :hammer:
+- [ ] Unary, Binary Operators and local variables 
 - [ ] Conditionals and Compound Statements
 - [ ] Loops, Functions, and Global Variables
