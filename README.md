@@ -1,6 +1,6 @@
 # Kitsune Compiler
 
-Why the name kisune?
+Why the name kitsune?
 _idk sounded cool_
 
 #### Why make a compiler?
