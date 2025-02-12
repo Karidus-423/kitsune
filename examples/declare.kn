@@ -1,0 +1,2 @@
+var simple_sum:int = 2+3;
+print(simple_sum);

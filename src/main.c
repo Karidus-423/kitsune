@@ -25,5 +25,9 @@ int main(int argc, char *argv[]) {
 	}
 	fclose(input);
 
-	Lexer(buffer);
+	token_list_t *tokens_list = Lexer(buffer);
+
+	for(int i = 0; i < tokens_list->list_size; i++){
+		printf("%d",tokens_list->token[i].type);
+	}
 }
