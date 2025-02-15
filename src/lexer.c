@@ -1,3 +1,4 @@
+// Read input and output tokens.
 #include "compiler.h"
 #include <stdio.h>
 #include <stdlib.h>
